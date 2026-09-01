@@ -8,9 +8,21 @@ https://www.figma.com/design/fRPJLroPiL9Jeu4zhfy0Zf/FaceID-completo?node-id=745-
 
 https://github.com/orgs/FaceID-Proyect-2026/projects/1/views/1
 
+-----------------------------------------------------------
+https://github.com/orgs/FaceID-Proyect-2026/projects/7
+
+
 ## Git (Movil y web)
 
-https://github.com/FaceID-Proyect-2026/FaceLit
+https://github.com/FaceID-Proyect-2026/FaceLit/tree/dev
+
+------------------------
+ https://github.com/FaceID-Proyect-2026/FaceLit/tree/feature/profile-integration
+
+--------------------------------------------------
+
+https://github.com/FaceID-Proyect-2026/FaceLit-DB
+
 
 ## Docs (Drive)
 
