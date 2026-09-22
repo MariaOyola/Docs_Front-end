@@ -29,7 +29,7 @@ Repositorio para ver el avance del front-end con datos quemados (mock). Aquí so
 
 <img width="605" height="113" alt="image" src="https://github.com/user-attachments/assets/e9a9176e-20f8-4595-963e-e03b6c6db22f" />
 
-**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit/tree/dev
+**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit/tree/integation-majo
 
 ---
 
@@ -89,7 +89,7 @@ MAIL_USERNAME=facelit.system@gmail.com
 MAIL_PASSWORD=pgkyeljftwhclykr
 ```
 
-**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit-Backend/tree/hotfix-03
+**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit-Backend/tree/HU-18
 
 ---
 
