@@ -29,21 +29,7 @@ Repositorio para ver el avance del front-end con datos quemados (mock). Aquí so
 
 <img width="605" height="113" alt="image" src="https://github.com/user-attachments/assets/e9a9176e-20f8-4595-963e-e03b6c6db22f" />
 
-**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit/tree/integation-majo
-
----
-
-### 2. Front-end (rama `feature/profile-integration`)
-
-Mismo repositorio del front, pero en esta rama sí está integrada la conexión con el backend.
-
-**Comandos de ejecución:**
-```bash
-npx expo install expo@~54.0.37 expo-constants@~18.0.14
-npx expo start -c
-```
-
-**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit/tree/feature/profile-integration
+**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit/tree/dev
 
 ---
 
@@ -89,7 +75,7 @@ MAIL_USERNAME=facelit.system@gmail.com
 MAIL_PASSWORD=pgkyeljftwhclykr
 ```
 
-**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit-Backend/tree/HU-18
+**Repo:** https://github.com/FaceID-Proyect-2026/FaceLit-Backend/tree/dev
 
 ---
 
