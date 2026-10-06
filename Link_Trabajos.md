@@ -83,3 +83,8 @@ MAIL_PASSWORD=pgkyeljftwhclykr
 
 [Ver carpeta en Google Drive](https://drive.google.com/drive/folders/12F8O-47Z7yD8U6IcIgIYGl62aKOA1aNf?usp=drive_link)
 
+## Micro de reconocimiento Facial
+
+Link del repo : https://github.com/FaceID-Proyect-2026/micro-facial
+
+
