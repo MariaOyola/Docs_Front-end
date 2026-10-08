@@ -47,7 +47,7 @@ docker compose -p facelit-docker-compose --profile tooling run --rm liquibase up
 
 ---
 
-### 4. Back-end (rama `hotfix-03`)
+### 4. Back-end (rama `dev`)
 
 **Cómo se ejecuta:**
 
