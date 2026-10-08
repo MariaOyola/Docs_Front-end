@@ -85,6 +85,7 @@ MAIL_PASSWORD=pgkyeljftwhclykr
 
 ## Micro de reconocimiento Facial
 
-Link del repo : https://github.com/FaceID-Proyect-2026/micro-facial
+Link del repo : https://github.com/FaceID-Proyect-2026/micro-facial/tree/dev
+
 
 
